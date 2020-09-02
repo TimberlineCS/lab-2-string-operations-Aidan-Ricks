@@ -1,4 +1,4 @@
-public class Wordscrabler{
+public class newlab{
   public static void main(String args[]){
 
     //Chaleng 1
